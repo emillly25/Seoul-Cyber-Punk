@@ -3,6 +3,7 @@ import cors from "cors";
 import path from "path";
 import { tourRouter } from "./routers/tour-router";
 import { aboutRouter } from "./routers/about-router";
+import { reviewRouter } from "./routers/review-router";
 
 import bodyParser from "body-parser";
 

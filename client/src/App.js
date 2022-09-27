@@ -1,10 +1,10 @@
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Spot from "./pages/Spot";
 import About from "./pages/About";
 import Review from "./pages/Review";
 import Admin from "./pages/Admin";
-import {ScrollPrac} from "./pages/Scroll";
+import { ScrollPrac } from "./pages/Scroll";
 
 function App() {
   return (

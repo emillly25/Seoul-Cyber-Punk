@@ -1,6 +1,6 @@
 # 🌍 SEOUL-CYBER-PUNK
 
-🚀 service-link : https://seoul-cyber-punk.herokuapp.com/
+🚀 service-video : https://www.youtube.com/watch?v=lJHbBNWZQCo&t=1s
 
 ## 🔗 1️⃣ 서비스 소개
 
@@ -82,4 +82,3 @@
   - api 호출시에 받아오는 데이터가 클수록 렌더링이 느려짐
   - 이를 개선하기 위해 데이터의 갯수를 제한하여 받아오는 무한 스크롤이나 페이지네이션이 필요하다고 판단
 
-## 🔗 6️⃣ 프로젝트 미리보기
